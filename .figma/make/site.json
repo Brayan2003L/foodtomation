@@ -1,0 +1,10 @@
+{
+  "description": "Streamline restaurant operations with a user-friendly mobile POS that features intuitive category tabs and detailed dish cards for efficient order management.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
